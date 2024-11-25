@@ -57,4 +57,4 @@ DOMAIN-SUFFIX,prd.api.discomax.com
 DOMAIN-SUFFIX,media.max.com
 DOMAIN-SUFFIX,prd.api.max.com
 DOMAIN-SUFFIX,max.com
-PROCESS-NAME,com.hbo.hbonow
+PROCESS-NAME,com.hbo.max
