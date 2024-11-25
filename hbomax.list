@@ -3,9 +3,9 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:16:13
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 46
+# DOMAIN-SUFFIX: 49
 # PROCESS-NAME: 1
-# TOTAL: 47
+# TOTAL: 50
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
@@ -52,5 +52,8 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,prd.api.discomax.com
+DOMAIN-SUFFIX,media.max.com
+DOMAIN-SUFFIX,prd.api.max.com
 DOMAIN-SUFFIX,max.com
 PROCESS-NAME,com.hbo.hbonow
