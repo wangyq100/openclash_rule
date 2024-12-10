@@ -3,7 +3,7 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:16:13
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 50
+# DOMAIN-SUFFIX: 52
 # PROCESS-NAME: 1
 # TOTAL: 51
 DOMAIN,wmff.warnermediacdn.com
@@ -57,4 +57,6 @@ DOMAIN-SUFFIX,prd.api.discomax.com
 DOMAIN-SUFFIX,media.max.com
 DOMAIN-SUFFIX,prd.api.max.com
 DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,discomax.com
 PROCESS-NAME,com.hbo.max
